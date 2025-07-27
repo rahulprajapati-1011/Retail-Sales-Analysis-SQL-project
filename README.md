@@ -5,7 +5,6 @@
 **Project Title**: Retail Sales Analysis    
 **Database**: `Reatail`
 
-This project is designed to demonstrate SQL skills and techniques typically used by data analysts to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This project is ideal for those who are starting their journey in data analysis and want to build a solid foundation in SQL.
 
 ## Objectives
 
@@ -201,14 +200,14 @@ group by Shift
 
 ## Findings
 
-- **Customer Demographics**: The dataset consists of over 600 unique customers spanning diverse age groups. Categories like Clothing and Beauty saw significant engagement,                               with Clothing leading in total orders.
-- **High-Value Transactions**: Multiple transactions recorded sales above ₹1000, indicating the presence of high-ticket purchases — possibly premium product segments or                                    bulk orders.
+- **Customer Demographics**: The dataset consists of over 600 unique customers spanning diverse age groups. Categories like Clothing and Beauty saw significant engagement, with Clothing leading in total orders.
+- **High-Value Transactions**: Multiple transactions recorded sales above ₹1000, indicating the presence of high-ticket purchases — possibly premium product segments or   bulk orders.
 - **Sales Trends**: 1. November 2022 emerged as the top-performing month based on average sales
-                    2. Afternoon hours (12 PM – 5 PM) showed the highest order volume, suggesting it as the busiest time window for sales.
+    2. Afternoon hours (12 PM – 5 PM) showed the highest order volume, suggesting it as the busiest time window for sales.
 - **Customer Insights**: 1. Identified the top 5 highest spending customers, helping target loyal or high-value users.
-                         2. Each product category attracted a different demographic; for example, Beauty products were mostly purchased by customers aged 30–40
+   2. Each product category attracted a different demographic; for example, Beauty products were mostly purchased by customers aged 30–40
 - **Category Performance**: 1. Clothing led in both total sales and number of orders.
-                            2. Profit margins and cost-to-sales analysis (via total_sale - cogs) can be leveraged for pricing strategy.
+   2. Profit margins and cost-to-sales analysis (via total_sale - cogs) can be leveraged for pricing strategy.
 
 ## Reports
 
